@@ -38,6 +38,10 @@ class S3
                 'label' => 'Asia Pacific (Seoul)',
             ],
             [
+                'value' => 'ap-east-1',
+                'label' => 'Asia Pacific (Hong Kong)',
+            ],
+            [
                 'value' => 'ap-south-1',
                 'label' => 'Asia Pacific (Mumbai)',
             ],
